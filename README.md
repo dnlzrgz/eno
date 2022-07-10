@@ -2,6 +2,8 @@
 
 This project contains a [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator written in Go. The CHIP-8 actually never was a real system, but more like a virtual machine. Games written in the CHIP-8 language could easily run on systems that had a CHIP-8 interpreter. So in reality this project is more like a CHIP-8 interpreter.
 
+![Puzzle](./assets/images/puzzle.png)
+
 ## Resources
 - [How to write an emulator (CHIP-8 interpreter)](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/).
 - [Cowgod's Chip-8 Technical Reference v1.0](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
